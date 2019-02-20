@@ -6,7 +6,7 @@ uses
   SysUtils;
 
 begin
-  Writeln('Hello, World from Delphi!');
+  Writeln('Hello, World from Sergey!');
   Writeln('This is the console application');
   Writeln;
   Writeln('Press <Enter> to quit.');
